@@ -2,6 +2,8 @@ ul{
     display: flex;
     gap: 20px;
 }
-
+.ul li a{
+    text-decoration: none;
+}
 
 
